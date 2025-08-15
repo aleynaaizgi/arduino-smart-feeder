@@ -12,5 +12,5 @@ Bu proje, evcil hayvanlar için belirli saatlerde otomatik olarak mama veren bir
 2. Gerekli kütüphaneleri yükleyin (Servo, Wire, RTC).
 3. Arduino’ya kodu yükleyin.
 4. Cihazı güç kaynağına bağlayın.
-5. 
-6. 👩‍💻 **Geliştirici:** Aleyna Fatma İzgi
+
+ 👩‍💻 **Geliştirici:** Aleyna Fatma İzgi
